@@ -135,6 +135,12 @@ section form input[type=submit]:active {
   --color-border: #8080802e;
 }
 
+#__next {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 * {
   margin: 0;
   padding: 0;
